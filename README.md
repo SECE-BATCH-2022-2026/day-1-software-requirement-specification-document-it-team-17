@@ -1,5 +1,5 @@
  Chat Application with Message Storage
-1. Introduction
+1.Introduction
 
 1.1 Purpose
 The purpose of this document is to specify the requirements for the development of a chat application with message storage. This application aims to provide users with a secure, real-time communication platform with the ability to store and retrieve chat messages.
