@@ -71,34 +71,41 @@ Moderation tools should be available to control content within the application.
 3. Non-Functional Requirements
 
 3.1 Performance
+
 The application must handle a scalable number of concurrent users.
 Messages should be delivered with low latency.
 
 3.2 Reliability
+
 The chat application should have high availability.
 Regular data backups and archival processes must be in place.
 
 3.3 Security
+
 Compliance with industry standards (e.g., GDPR, HIPAA) for data protection.
 Regular security audits and vulnerability assessments.
 
 3.4 Usability
+
 The user interface should be intuitive and user-friendly.
 Support for accessibility features to accommodate users with disabilities.
 
 3.5 Compatibility
+
 Compatibility with popular browsers and operating systems.
 Integration with third-party services and APIs.
 
 4. Constraints
+   
 The application must comply with relevant legal and regulatory requirements.
 Integration with certain external systems may be subject to third-party limitations.
 
-6. Assumptions
+5. Assumptions
+   
 Users have a reliable internet connection.
 Users are responsible for the confidentiality of their login credentials.
 
-8. Glossary
+6. Glossary
 End-to-End Encryption: A security measure where only the communicating users can read the messages.
 
 Push Notifications: Messages sent from a software application to a computing device, without a specific request from the client.
